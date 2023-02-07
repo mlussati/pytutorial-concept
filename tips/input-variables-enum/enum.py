@@ -40,5 +40,4 @@ def get_randon_season():
     """
     return random.choice(list(SeasonClass))
 
-
 print(get_randon_season())
